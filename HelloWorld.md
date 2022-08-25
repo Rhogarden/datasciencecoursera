@@ -1,6 +1,6 @@
 ---
 title: "Hello World"
-author: "Rhonda Adams"
+author: "Rhogarden"
 date: "2022-08-25"
 output: pdf_document
 ---
